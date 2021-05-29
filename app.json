@@ -1,0 +1,12 @@
+{
+  "name": "seiryu-doctor-mobile",
+  "displayName": "seiryu-doctor-mobile",
+  "expo": {
+    "name": "seiryu-doctor-mobile",
+    "slug": "seiryu-doctor-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
